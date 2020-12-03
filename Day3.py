@@ -1,11 +1,8 @@
 from input_reader import *
-import numpy as np
 
 data = read_task_input(3).split("\n")
 
 STEPS = [[1, 1], [3, 1], [5, 1], [7, 1], [1, 2]]
-
-x, y = 0, 0
 
 tree_counts = []
 
