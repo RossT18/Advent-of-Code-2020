@@ -1,6 +1,6 @@
 # Advent-of-Code-2020
 
-This is my attempt at this year's Advent of Code. Below is a satisfying checklist which will hopefully push me to complete the calendar.
+This is my attempt at this year's Advent of Code. Below is a checklist which will hopefully push me to complete the calendar. 🤞
 
 🎄 Day 1
 
