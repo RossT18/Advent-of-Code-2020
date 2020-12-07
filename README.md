@@ -12,9 +12,9 @@ This is my attempt at this year's Advent of Code. Below is a checklist which wil
 
 🎄 Day 5
 
-🎁 Day 6
+🎄 Day 6
 
-🎅💤 Day 7
+🎁 Day 7
 
 🎅💤 Day 8
 
