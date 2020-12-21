@@ -2,6 +2,8 @@
 
 This is my attempt at this year's Advent of Code. Below is a checklist which will hopefully push me to complete the calendar. 🤞
 
+To easily run a day, use `run DAY` where DAY is just the day number.
+
 🎄 Day 1
 
 🎄 Day 2
@@ -54,6 +56,6 @@ This is my attempt at this year's Advent of Code. Below is a checklist which wil
 
 🎄 - Completed
 
-🎁 - Next Day
+🎁 - Available Day
 
 🎅💤 - Upcoming
